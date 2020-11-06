@@ -4,34 +4,41 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<h1 id="typing">"개발자 박수민의 개인블로그에 오신걸 환영합니다."</h1> 
+<br>
+<br>
+<h2>SKILLS</h2>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<h3>Launage</h3>
+<div class="Skill_image_container" id="1" style="background-image: url(public/img/1.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="2" style="background-image: url(public/img/2.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="3" style="background-image: url(public/img/3.jpg);"><div class="Skill_label">Basic</div></div>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<h3>Web Skils</h3>
+<div class="Skill_image_container" id="4" style="background-image: url(public/img/4.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="5" style="background-image: url(public/img/5.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="6" style="background-image: url(public/img/6.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="7" style="background-image: url(public/img/7.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="8" style="background-image: url(public/img/8.jpg);"><div class="Skill_label">Basic</div></div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<h3>FrameWork</h3>
+<div class="Skill_image_container" id="9" style="background-image: url(public/img/9.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="10" style="background-image: url(public/img/10.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="11" style="background-image: url(public/img/11.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="12" style="background-image: url(public/img/12.jpg);"><div class="Skill_label">Basic</div></div>
+
+<h3>DataBase</h3>
+<div class="Skill_image_container" id="13" style="background-image: url(public/img/13.jpg);"><div class="Skill_label">Basic</div></div>
+<div class="Skill_image_container" id="14" style="background-image: url(public/img/14.jpg);"><div class="Skill_label">Basic</div></div>
+
+<h3>Etc</h3>
+<div class="Skill_image_container" id="15" style="background-image: url(public/img/15.jpg);"><div class="Skill_label">Basic</div></div>
+
+
+
+
+
+
+
+
 </div>

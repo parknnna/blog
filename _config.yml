@@ -17,9 +17,8 @@ paginate: 5
 # Custom vars
 
 
-github: https://github.com/parknnna
-repo: https://github.com/parknnna
-
+github: https://parknnna.github.io/blog/
+repo: https://parknnna.github.io/blog/
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate

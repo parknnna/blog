@@ -18,7 +18,7 @@ paginate: 5
 
 
 github: https://github.com/parknnna
-  repo: https://github.com/parknnna
+repo: https://github.com/parknnna
 
 # Plugins (previously gems:)
 plugins:

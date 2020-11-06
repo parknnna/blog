@@ -17,7 +17,7 @@ paginate:         5
 # Custom vars
 
 
-github: https://github.com/parknnna
+github:           https://github.com/parknnna
   repo:           https://github.com/parknnna
 
 # Plugins (previously gems:)

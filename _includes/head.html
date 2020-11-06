@@ -43,10 +43,10 @@
         if(counter < 16){
           setTimeout(function(){
             counter++;
-            $( '#'+counter ).fadeIn( 2000 );
+            $( '#'+counter ).fadeIn( 1000 );
             $( '#'+counter ).css("display","inline-block");
             start(counter);
-          }, 200);
+          }, 100);
         }
       }
 
@@ -92,7 +92,7 @@
            }).appendTo($typing);
 
            // 글자를 표시하기 전의 지연 시간(ms)
-           var delayStart = 0;
+           var delayStart = 150;
            // 타이핑 속도(ms)
            var speed = 150;
 

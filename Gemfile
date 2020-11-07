@@ -9,4 +9,6 @@ gem "jekyll-gist"
 
 gem 'jekyll-include-cache' # 추가
 
- 
+
+source 'https://rubygems.org'
+gem 'github-pages'

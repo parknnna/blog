@@ -26,7 +26,7 @@ src="../public/aaa.jpg" width="250px" height="250px" alt="qkrt" />
 <div style="float:left; margin-left:150px" align="center">
 <p>  name : Park sumin / 박수민</p>
 <p>  E-mail : af777888@naver.com</p>
-<p>  <a class="black-link" href="https://github.com/parknnna">[ github ]</a></p>
+<p>  <a class="black-link" href="https://github.com/parknnna"><i class="fab fa-github"></i></a></p>
 <p>  <a class="black-link" href="https://www.instagram.com/park_nnna/">[ instargram ]</a></p>
 <p>  <a class="black-link" href="https://www.facebook.com/profile.php?id=100003474619952">[ facebook ]</a></p>
 </div>

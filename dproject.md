@@ -28,7 +28,7 @@ title: Dproject
     </div>
 
 <h1>Dproject</h1>
-<h3><a href="https://github.com/parknnna/TeamProj">github</a></h3>
+<h3><a href="https://github.com/parknnna/TeamProj">github/Dproject</a></h3>
 <p class="message">
 Spring framework(MVC패턴)를 사용한 여행정보 공유 사이트 (5인 팀 프로젝트)
 </p>

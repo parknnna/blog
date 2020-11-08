@@ -33,77 +33,77 @@ Spring framework(MVC패턴)를 사용한 여행정보 공유 사이트 (5인 팀
 </p>
   <div id="div1">
   <h2>개발 환경</h2>
-  <img src="../public/dproj_img/4.jpg">
-  <img src="../public/dproj_img/5.jpg">
-  <img src="../public/dproj_img/6.jpg">
-  <img src="../public/dproj_img/7.jpg" >
+  <img src="../public/dproj_img/4.JPG">
+  <img src="../public/dproj_img/5.JPG">
+  <img src="../public/dproj_img/6.JPG">
+  <img src="../public/dproj_img/7.JPG" >
   </div>
 
 
   <div id="div2">
   <h2>DATABASE</h2>
-  <img src="../public/dproj_img/8.jpg" >
+  <img src="../public/dproj_img/8.JPG" >
   </div>
 
   <div id="div3">
   <h2>개발 기간, 임무 분담</h2>
-  <img src="../public/dproj_img/3.jpg" >
-  <img src="../public/dproj_img/1.jpg" >
+  <img src="../public/dproj_img/3.JPG" >
+  <img src="../public/dproj_img/1.JPG" >
   </div>
 
 
   <div id="div4">
   <h2>채팅 기능</h2>
-  <img src="../public/dproj_img/9.jpg">
-  <img src="../public/dproj_img/10.jpg">
-  <img src="../public/dproj_img/11.jpg">
-  <img src="../public/dproj_img/12.jpg">
-  <img src="../public/dproj_img/13.jpg">
-  <img src="../public/dproj_img/14.jpg">
-  <img src="../public/dproj_img/15.jpg">
+  <img src="../public/dproj_img/9.JPG">
+  <img src="../public/dproj_img/10.JPG">
+  <img src="../public/dproj_img/11.JPG">
+  <img src="../public/dproj_img/12.JPG">
+  <img src="../public/dproj_img/13.JPG">
+  <img src="../public/dproj_img/14.JPG">
+  <img src="../public/dproj_img/15.JPG">
   </div>
 
 
 
   <div id="div5">
   <h2>이메일 인증</h2>
-  <img src="../public/dproj_img/16.jpg">
-  <img src="../public/dproj_img/17.jpg">
-  <img src="../public/dproj_img/18.jpg">
+  <img src="../public/dproj_img/16.JPG">
+  <img src="../public/dproj_img/17.JPG">
+  <img src="../public/dproj_img/18.JPG">
   </div>
 
 
 
   <div id="div6">
   <h2>아이디 찾기,임시 비밀번호 발급</h2>
-  <img src="../public/dproj_img/68.jpg">
-  <img src="../public/dproj_img/19.jpg">
-  <img src="../public/dproj_img/20.jpg">
+  <img src="../public/dproj_img/68.JPG">
+  <img src="../public/dproj_img/19.JPG">
+  <img src="../public/dproj_img/20.JPG">
   </div>
 
 
 
   <div id="div7">
   <h2>회원가입</h2>
-  <img src="../public/dproj_img/63.jpg">
-  <img src="../public/dproj_img/64.jpg">
-  <img src="../public/dproj_img/65.jpg">
+  <img src="../public/dproj_img/63.JPG">
+  <img src="../public/dproj_img/64.JPG">
+  <img src="../public/dproj_img/65.JPG">
   </div>
 
 
 
   <div id="div8">
   <h2>로그인</h2>
-  <img src="../public/dproj_img/66.jpg">
-  <img src="../public/dproj_img/67.jpg">
+  <img src="../public/dproj_img/66.JPG">
+  <img src="../public/dproj_img/67.JPG">
   </div>
 
 
 
   <div id="div9">
   <h2>로그인 후 메인 페이지, 마이페이지</h2>
-  <img src="../public/dproj_img/70.jpg">
-  <img src="../public/dproj_img/71.jpg">
+  <img src="../public/dproj_img/70.JPG">
+  <img src="../public/dproj_img/71.JPG">
   </div>
 
 

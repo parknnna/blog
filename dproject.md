@@ -110,113 +110,113 @@ Spring framework(MVC패턴)를 사용한 여행정보 공유 사이트 (5인 팀
 
   <div id="div10">
   <h2>버스 예약하기</h2>
-  <img src="../public/dproj_img/72.jpg">
-  <img src="../public/dproj_img/73.jpg">
-  <img src="../public/dproj_img/74.jpg">
-  <img src="../public/dproj_img/75.jpg">
-  <img src="../public/dproj_img/76.jpg">
-  <img src="../public/dproj_img/77.jpg">
-  <img src="../public/dproj_img/78.jpg">
-  <img src="../public/dproj_img/79.jpg">
-  <img src="../public/dproj_img/80.jpg">
-  <img src="../public/dproj_img/81.jpg">
-  <img src="../public/dproj_img/82.jpg">
-  <img src="../public/dproj_img/83.jpg">
-  <img src="../public/dproj_img/84.jpg">
-  <img src="../public/dproj_img/85.jpg">
-  <img src="../public/dproj_img/86.jpg">
-  <img src="../public/dproj_img/87.jpg">
+  <img src="../public/dproj_img/72.JPG">
+  <img src="../public/dproj_img/73.JPG">
+  <img src="../public/dproj_img/74.JPG">
+  <img src="../public/dproj_img/75.JPG">
+  <img src="../public/dproj_img/76.JPG">
+  <img src="../public/dproj_img/77.JPG">
+  <img src="../public/dproj_img/78.JPG">
+  <img src="../public/dproj_img/79.JPG">
+  <img src="../public/dproj_img/80.JPG">
+  <img src="../public/dproj_img/81.JPG">
+  <img src="../public/dproj_img/82.JPG">
+  <img src="../public/dproj_img/83.JPG">
+  <img src="../public/dproj_img/84.JPG">
+  <img src="../public/dproj_img/85.JPG">
+  <img src="../public/dproj_img/86.JPG">
+  <img src="../public/dproj_img/87.JPG">
   </div>
 
 
 
   <div id="div11">
   <h2>터미널 정보</h2>
-  <img src="../public/dproj_img/88.jpg">
-  <img src="../public/dproj_img/89.jpg">
+  <img src="../public/dproj_img/88.JPG">
+  <img src="../public/dproj_img/89.JPG">
   </div>
 
 
 
   <div id="div12">
   <h2>호텔 예약</h2>
-  <img src="../public/dproj_img/91.jpg">
-  <img src="../public/dproj_img/92.jpg">
-  <img src="../public/dproj_img/93.jpg">
-  <img src="../public/dproj_img/94.jpg">
-  <img src="../public/dproj_img/95.jpg">
-  <img src="../public/dproj_img/96.jpg">
-  <img src="../public/dproj_img/97.jpg">
-  <img src="../public/dproj_img/98.jpg">
-  <img src="../public/dproj_img/99.jpg">
-  <img src="../public/dproj_img/100.jpg">
-  <img src="../public/dproj_img/101.jpg">
-  <img src="../public/dproj_img/102.jpg">
-  <img src="../public/dproj_img/103.jpg">
-  <img src="../public/dproj_img/104.jpg">
-  <img src="../public/dproj_img/105.jpg">
-  <img src="../public/dproj_img/106.jpg">
-  <img src="../public/dproj_img/107.jpg">
-  <img src="../public/dproj_img/108.jpg">
+  <img src="../public/dproj_img/91.JPG">
+  <img src="../public/dproj_img/92.JPG">
+  <img src="../public/dproj_img/93.JPG">
+  <img src="../public/dproj_img/94.JPG">
+  <img src="../public/dproj_img/95.JPG">
+  <img src="../public/dproj_img/96.JPG">
+  <img src="../public/dproj_img/97.JPG">
+  <img src="../public/dproj_img/98.JPG">
+  <img src="../public/dproj_img/99.JPG">
+  <img src="../public/dproj_img/100.JPG">
+  <img src="../public/dproj_img/101.JPG">
+  <img src="../public/dproj_img/102.JPG">
+  <img src="../public/dproj_img/103.JPG">
+  <img src="../public/dproj_img/104.JPG">
+  <img src="../public/dproj_img/105.JPG">
+  <img src="../public/dproj_img/106.JPG">
+  <img src="../public/dproj_img/107.JPG">
+  <img src="../public/dproj_img/108.JPG">
   </div>
 
 
 
   <div id="div13">
   <h2>호텔 리뷰 게시판</h2>
-  <img src="../public/dproj_img/44.jpg">
-  <img src="../public/dproj_img/45.jpg">
-  <img src="../public/dproj_img/46.jpg">
-  <img src="../public/dproj_img/47.jpg">
-  <img src="../public/dproj_img/48.jpg">
-  <img src="../public/dproj_img/49.jpg">
-  <img src="../public/dproj_img/50.jpg">
-  <img src="../public/dproj_img/51.jpg">
-  <img src="../public/dproj_img/52.jpg">
-  <img src="../public/dproj_img/53.jpg">
-  <img src="../public/dproj_img/54.jpg">
-  <img src="../public/dproj_img/55.jpg">
-  <img src="../public/dproj_img/56.jpg">
+  <img src="../public/dproj_img/44.JPG">
+  <img src="../public/dproj_img/45.JPG">
+  <img src="../public/dproj_img/46.JPG">
+  <img src="../public/dproj_img/47.JPG">
+  <img src="../public/dproj_img/48.JPG">
+  <img src="../public/dproj_img/49.JPG">
+  <img src="../public/dproj_img/50.JPG">
+  <img src="../public/dproj_img/51.JPG">
+  <img src="../public/dproj_img/52.JPG">
+  <img src="../public/dproj_img/53.JPG">
+  <img src="../public/dproj_img/54.JPG">
+  <img src="../public/dproj_img/55.JPG">
+  <img src="../public/dproj_img/56.JPG">
   </div>
 
 
 
   <div id="div14">
   <h2>정보 공유 게시판</h2>
-  <img src="../public/dproj_img/109.jpg">
-  <img src="../public/dproj_img/110.jpg">
-  <img src="../public/dproj_img/111.jpg">
-  <img src="../public/dproj_img/112.jpg">
-  <img src="../public/dproj_img/113.jpg">
-  <img src="../public/dproj_img/114.jpg">
-  <img src="../public/dproj_img/115.jpg">
-  <img src="../public/dproj_img/116.jpg">
-  <img src="../public/dproj_img/117.jpg">
-  <img src="../public/dproj_img/118.jpg">
-  <img src="../public/dproj_img/119.jpg">
-  <img src="../public/dproj_img/120.jpg">
-  <img src="../public/dproj_img/121.jpg">
-  <img src="../public/dproj_img/122.jpg">
-  <img src="../public/dproj_img/123.jpg">
-  <img src="../public/dproj_img/124.jpg">
+  <img src="../public/dproj_img/109.JPG">
+  <img src="../public/dproj_img/110.JPG">
+  <img src="../public/dproj_img/111.JPG">
+  <img src="../public/dproj_img/112.JPG">
+  <img src="../public/dproj_img/113.JPG">
+  <img src="../public/dproj_img/114.JPG">
+  <img src="../public/dproj_img/115.JPG">
+  <img src="../public/dproj_img/116.JPG">
+  <img src="../public/dproj_img/117.JPG">
+  <img src="../public/dproj_img/118.JPG">
+  <img src="../public/dproj_img/119.JPG">
+  <img src="../public/dproj_img/120.JPG">
+  <img src="../public/dproj_img/121.JPG">
+  <img src="../public/dproj_img/122.JPG">
+  <img src="../public/dproj_img/123.JPG">
+  <img src="../public/dproj_img/124.JPG">
   </div>
 
 
 
   <div id="div15">
   <h2>버스 관리자</h2>
-  <img src="../public/dproj_img/21.jpg">
-  <img src="../public/dproj_img/22.jpg">
-  <img src="../public/dproj_img/23.jpg">
-  <img src="../public/dproj_img/24.jpg">
-  <img src="../public/dproj_img/25.jpg">
-  <img src="../public/dproj_img/26.jpg">
-  <img src="../public/dproj_img/27.jpg">
-  <img src="../public/dproj_img/28.jpg">
-  <img src="../public/dproj_img/29.jpg">
-  <img src="../public/dproj_img/30.jpg">
-  <img src="../public/dproj_img/31.jpg">
-  <img src="../public/dproj_img/32.jpg">
+  <img src="../public/dproj_img/21.JPG">
+  <img src="../public/dproj_img/22.JPG">
+  <img src="../public/dproj_img/23.JPG">
+  <img src="../public/dproj_img/24.JPG">
+  <img src="../public/dproj_img/25.JPG">
+  <img src="../public/dproj_img/26.JPG">
+  <img src="../public/dproj_img/27.JPG">
+  <img src="../public/dproj_img/28.JPG">
+  <img src="../public/dproj_img/29.JPG">
+  <img src="../public/dproj_img/30.JPG">
+  <img src="../public/dproj_img/31.JPG">
+  <img src="../public/dproj_img/32.JPG">
   </div>
 
 
@@ -224,18 +224,18 @@ Spring framework(MVC패턴)를 사용한 여행정보 공유 사이트 (5인 팀
 
   <div id="div16">
   <h2>호텔 관리자</h2>
-  <img src="../public/dproj_img/33.jpg">
-  <img src="../public/dproj_img/34.jpg">
-  <img src="../public/dproj_img/35.jpg">
-  <img src="../public/dproj_img/36.jpg">
-  <img src="../public/dproj_img/37.jpg">
-  <img src="../public/dproj_img/38.jpg">
-  <img src="../public/dproj_img/39.jpg">
-  <img src="../public/dproj_img/40.jpg">
-  <img src="../public/dproj_img/41.jpg">
-  <img src="../public/dproj_img/42.jpg">
-  <img src="../public/dproj_img/43.jpg">
-  <img src="../public/dproj_img/44.jpg">
+  <img src="../public/dproj_img/33.JPG">
+  <img src="../public/dproj_img/34.JPG">
+  <img src="../public/dproj_img/35.JPG">
+  <img src="../public/dproj_img/36.JPG">
+  <img src="../public/dproj_img/37.JPG">
+  <img src="../public/dproj_img/38.JPG">
+  <img src="../public/dproj_img/39.JPG">
+  <img src="../public/dproj_img/40.JPG">
+  <img src="../public/dproj_img/41.JPG">
+  <img src="../public/dproj_img/42.JPG">
+  <img src="../public/dproj_img/43.JPG">
+  <img src="../public/dproj_img/44.JPG">
   </div>
 
 
@@ -243,8 +243,8 @@ Spring framework(MVC패턴)를 사용한 여행정보 공유 사이트 (5인 팀
 
   <div id="div17">
   <h2>전체 관리자</h2>
-  <img src="../public/dproj_img/57.jpg">
-  <img src="../public/dproj_img/58.jpg">
+  <img src="../public/dproj_img/57.JPG">
+  <img src="../public/dproj_img/58.JPG">
   </div>
 
 
@@ -252,8 +252,8 @@ Spring framework(MVC패턴)를 사용한 여행정보 공유 사이트 (5인 팀
 
   <div id="div18">
   <h2>지도 검색(naver API, kakaomap API)</h2>
-  <img src="../public/dproj_img/59.jpg">
-  <img src="../public/dproj_img/60.jpg">
-  <img src="../public/dproj_img/61.jpg">
-  <img src="../public/dproj_img/62.jpg">
+  <img src="../public/dproj_img/59.JPG">
+  <img src="../public/dproj_img/60.JPG">
+  <img src="../public/dproj_img/61.JPG">
+  <img src="../public/dproj_img/62.JPG">
   </div>

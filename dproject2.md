@@ -23,7 +23,6 @@ title: Dproject
             <li class="m">  <button onclick="fnMove('16')">호텔 관리자</button></li>
             <li class="m">  <button onclick="fnMove('17')">전체 관리자</button></li>
             <li class="m">  <button onclick="fnMove('18')">지도검색(API)</button></li>
-            <li class="m">  <button  onclick="history.go(-1);">뒤로가기</button></li>
         </ul>
     </div>
 

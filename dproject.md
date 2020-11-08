@@ -5,7 +5,6 @@ title: Dproject
 
   <div class="floating-menu">
         <ul>
-            <li class="m">  <button  onclick="history.go(-1);">뒤로가기</button></li>
             <li class="m">  <button  onclick="fnMove('1')">개발 환경</button></li>
             <li class="m">  <button onclick="fnMove('2')">DATABASE</button></li>
             <li class="m">  <button onclick="fnMove('3')">개발 기간, 임무 분담</button></li>
@@ -24,6 +23,7 @@ title: Dproject
             <li class="m">  <button onclick="fnMove('16')">호텔 관리자</button></li>
             <li class="m">  <button onclick="fnMove('17')">전체 관리자</button></li>
             <li class="m">  <button onclick="fnMove('18')">지도검색(API)</button></li>
+            <li class="m">  <button  onclick="history.go(-1);">뒤로가기</button></li>
         </ul>
     </div>
 

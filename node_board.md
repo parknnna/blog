@@ -5,13 +5,13 @@ title: node_board
 
   <div class="floating-menu">
         <ul>
-            <li class="m">  <button  onclick="fnMove('1')">개발 환경</button></li>
-            <li class="m">  <button onclick="fnMove('2')">DATABASE</button></li>
-            <li class="m">  <button onclick="fnMove('3')">기본 화면</button></li>
-            <li class="m">  <button  onclick="fnMove('4')">로그인, 회원가입</button></li>
-            <li class="m">  <button onclick="fnMove('5')">게시글 쓰기</button></li>
-            <li class="m">  <button onclick="fnMove('6')">댓글 쓰기, 삭제</button></li>
-            <li class="m">  <button  onclick="fnMove('7')">게시글 수정, 삭제</button></li>
+            <li class="m" id="m3">  <button  onclick="fnMove('1')">개발 환경</button></li>
+            <li class="m" id="m3">  <button onclick="fnMove('2')">DATABASE</button></li>
+            <li class="m" id="m3">  <button onclick="fnMove('3')">기본 화면</button></li>
+            <li class="m" id="m3">  <button  onclick="fnMove('4')">로그인, 회원가입</button></li>
+            <li class="m" id="m3">  <button onclick="fnMove('5')">게시글 쓰기</button></li>
+            <li class="m" id="m3">  <button onclick="fnMove('6')">댓글 쓰기, 삭제</button></li>
+            <li class="m" id="m3">  <button  onclick="fnMove('7')">게시글 수정, 삭제</button></li>
         </ul>
     </div>
 

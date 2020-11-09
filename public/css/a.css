@@ -49,6 +49,7 @@ background: rgb(231, 230, 230);
     background-repeat: no-repeat;
     margin-right: 2rem;
     margin-bottom: 1rem;
+    margin-top:3px;
 
     box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
 }

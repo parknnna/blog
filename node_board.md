@@ -47,7 +47,7 @@ node.js를 연습하기 위해 개인적으로 만든 프로젝트이므로 간�
     <div align="center"><img src="../public/node_board/qq.jpg" width="50" height="50"><div>
     <img src="../public/node_board/4.png">
     <div align="center"><img src="../public/node_board/qq.jpg" width="50" height="50"><div>
-    <img src="../public/node_board/5.png">
+    <img src="../public/node_board/5.PNG">
     <div align="center"><img src="../public/node_board/qq.jpg" width="50" height="50"><div>
     <img src="../public/node_board/6.png">
     <div align="center"><img src="../public/node_board/qq.jpg" width="50" height="50"><div>

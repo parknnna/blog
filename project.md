@@ -11,5 +11,5 @@ title: projects
 <td width="50%"><a href="https://parknnna.github.io/blog/dproject/">Dproject</a></td><td width="20%">STS</td><td width="20%">Spring</td><td width="10%">JAVA</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://parknnna.github.io/blog/node/">node.js_board</a></td><td width="20%">VSC</td><td width="20%">Express</td><td width="10%">JavaScript</td>
+<td width="50%"><a href="https://parknnna.github.io/blog/node_board/">node.js_board</a></td><td width="20%">VSC</td><td width="20%">Express</td><td width="10%">JavaScript</td>
 </tr>

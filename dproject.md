@@ -5,25 +5,29 @@ title: Dproject
 
   <div class="floating-menu">
         <ul>
-            <li class="m">  <button  onclick="fnMove('1')">개발 환경</button></li>
-            <li class="m">  <button onclick="fnMove('2')">DATABASE</button></li>
-            <li class="m">  <button onclick="fnMove('3')">개발 기간, 임무 분담</button></li>
-            <li class="m">  <button  onclick="fnMove('4')">채팅 기능</button></li>
-            <li class="m">  <button onclick="fnMove('5')">이메일 인증 기능</button></li>
-            <li class="m">  <button onclick="fnMove('6')">아이디 찾기, 임시 비번</button></li>
-            <li class="m">  <button  onclick="fnMove('7')">회원가입</button></li>
-            <li class="m">  <button onclick="fnMove('8')">로그인</button></li>
-            <li class="m">  <button onclick="fnMove('9')">로그인 후 페이지</button></li>
-            <li class="m">  <button  onclick="fnMove('10')">버스 예약</button></li>
-            <li class="m">  <button onclick="fnMove('11')">터미널 정보</button></li>
-            <li class="m">  <button onclick="fnMove('12')">호텔 예약</button></li>
-            <li class="m">  <button onclick="fnMove('13')">호텔 리뷰 게시판</button></li>
-            <li class="m">  <button onclick="fnMove('14')">정보 공유 게시판</button></li>
-            <li class="m">  <button onclick="fnMove('15')">버스 관리자</button></li>
-            <li class="m">  <button onclick="fnMove('16')">호텔 관리자</button></li>
-            <li class="m">  <button onclick="fnMove('17')">전체 관리자</button></li>
-            <li class="m">  <button onclick="fnMove('18')">지도검색(API)</button></li>
-            <li class="m">  <button  onclick="history.go(-1);">뒤로가기</button></li>
+            <li class="m" id="m1">  <button  onclick="fnMove('1')">개발 환경</button></li>
+            <li class="m" id="m1">  <button onclick="fnMove('2')">DATABASE</button></li>
+            <li class="m" id="m1">  <button onclick="fnMove('3')">개발 기간, 임무 분담</button></li>
+            <li class="m" id="m1">  <button  onclick="fnMove('4')">채팅 기능</button></li>
+            <li class="m" id="m1">  <button onclick="fnMove('5')">이메일 인증 기능</button></li>
+            <li class="m" id="m1">  <button onclick="fnMove('6')">아이디 찾기, 임시 비번</button></li>
+            <li class="m" id="m1">  <button  onclick="fnMove('7')">회원가입</button></li>
+            <li class="m" id="m1">  <button onclick="fnMove('8')">로그인</button></li>
+            <li class="m" id="m1">  <button onclick="fnMove('9')">로그인 후 페이지</button></li>
+
+
+            <li class="m" id="m2">  <button  onclick="fnMove('10')">버스 예약</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('11')">터미널 정보</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('12')">호텔 예약</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('13')">호텔 리뷰 게시판</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('14')">정보 공유 게시판</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('15')">버스 관리자</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('16')">호텔 관리자</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('17')">전체 관리자</button></li>
+            <li class="m" id="m2">  <button onclick="fnMove('18')">지도검색(API)</button></li>
+
+            <li class="m" id="m3">  <button  onclick="next();">다음 메뉴</button></li>
+            <li class="m" id="m3">  <button  onclick="history.go(-1);">뒤로가기</button></li>
         </ul>
     </div>
 

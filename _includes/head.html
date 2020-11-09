@@ -31,14 +31,6 @@
 
     <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
     <script>
-      // $( document ).ready( function() {
-      //   for(var i=1;i<16;i++){
-      //     $( 'img.'+i ).fadeIn( 3000 );
-      //   }
-      // });
-
-
-
       function start(counter){
         if(counter <= 20){
           setTimeout(function(){
@@ -49,12 +41,7 @@
           }, 100);
         }
       }
-
-
-
       start(0);
-
-
     </script>
 
 
@@ -62,7 +49,6 @@
   </script>
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-
   <script>
     $(function () {
 
@@ -106,13 +92,22 @@
            });
        });
 
-
-
+       window.onload = function(){
+        $('li[id^=m1]').show();
+        $('li[id^=m3]').show();
+        }
+        var tt=2;
+        function next(){
+          $('li[id^=m'+tt+']').show();
+          if(tt==2) tt=1;
+          else tt=2;
+          $('li[id^=m'+tt+']').hide();
+        }
 
        function fnMove(seq){
         var offset = $("#div" + seq).offset();
         $('html, body').animate({scrollTop : offset.top}, 400);
-    }
+        }
 
 
   </script>
@@ -146,11 +141,10 @@ from {border-bottom: 30px solid #fff}
 to {border-bottom: 30px solid #fff}
 
 }
-
-/* floating menu */
 .floating-menu ul{list-style:none;}
-.floating-menu { position: fixed; right: 30px; top: 30%; z-index: 100; width: 128px; height:90%; text-align:center;  margin: -220px 0 0 0; background-color: #fff;; /*background: url("") 0 0 no-repeat;*/ }
-.floating-menu li { margin: 0; *float: left; }
+.floating-menu { position: fixed; right: 30px; top: 30%; z-index: 100; width: 128px;
+padding-top:10%;text-align:center;  margin: -220px 0 0 0; background-color: #fff;; /*background: url("") 0 0 no-repeat;*/ }
+.floating-menu li { margin: 0; *float: left; display:none }
 .floating-menu a { width: 123px; padding: 10px 0;color: #000; text-align: center;}
 
 .floating-menu li.on button { background-color: #333; color: #fff;/*background: url("") 0 0 no-repeat;*/ }

@@ -13,7 +13,7 @@ font-size: 1.2em;
 
   }
 </style>
-<div style="float:left">
+<div style="float:left" width="200px" height="200px">
 <img style="
 border: 3px solid gold;
 border-radius: 50px;
@@ -21,9 +21,9 @@ border-radius: 50px;
 -khtml-border-radius: 50px;
 -webkit-border-radius: 50px;
 "
-src="../public/aaa.jpg" width="250px" height="250px" alt="qkrt" />
+src="../public/aaa.jpg" width="200px" height="200px" alt="qkrt" />
 </div>
-<div style="float:left; margin-left:150px" align="center">
+<div style="float:right; margin-right:0px;" align="center" width="50%">
 <p>  name : Park sumin / 박수민</p>
 <p>  E-mail : af777888@naver.com</p>
 <p> <a class="black-link" href="https://github.com/parknnna"><i class="fab fa-github fa-2x"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;

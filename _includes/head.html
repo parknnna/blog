@@ -92,10 +92,8 @@
            });
        });
 
-       window.onload = function(){
-        $('li[id^=m1]').show();
-        $('li[id^=m3]').show();
-        }
+
+
         var tt=2;
         function next(){
           $('li[id^=m'+tt+']').show();
@@ -154,7 +152,9 @@ padding-top:10%;text-align:center;  margin: -220px 0 0 0; background-color: #fff
 }
 .floating-menu button:hover{ color:white; background-color: skyblue; }
 
-
+#m1,#m3{
+  display:block;
+}
   </style>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
 
